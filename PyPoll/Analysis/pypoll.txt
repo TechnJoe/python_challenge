@@ -1,0 +1,9 @@
+
+
+Election_Results
+Total votes cast: {Total_votes_cast}
+Correy: 0% (0)
+Li: 0% (0)
+O'Tooley: 0% (0)
+Khan: 0% (0)
+Winner: Otooley_votes
