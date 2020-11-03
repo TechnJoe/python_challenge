@@ -1,9 +1,9 @@
 
 
 Election_Results
-Total votes cast: {Total_votes_cast}
-Correy: 0% (0)
-Li: 0% (0)
-O'Tooley: 0% (0)
-Khan: 0% (0)
-Winner: Otooley_votes
+Total votes cast: 3521001
+Correy: 20% (704201)
+Li: 14% (492941)
+O'Tooley: 3% (105631)
+Khan: 63% (2218232)
+Winner: Khan - 2218232
